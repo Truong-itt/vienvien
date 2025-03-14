@@ -1,0 +1,12 @@
+.comment {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.comment img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
